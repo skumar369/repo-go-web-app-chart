@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-web-app-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-28T15:40:51.6381807+01:00"
+    description: A Helm chart for Kubernetes
+    digest: ccc67dce731280724bef15c713d3d71d912a82765597e793d7741cdeaeb2eb19
+    name: go-web-app-chart
+    type: application
+    urls:
+    - https://your-github-username.github.io/repo-go-web-app-chart/go-web-app-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-28T15:40:51.6381807+01:00"
